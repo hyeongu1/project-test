@@ -12,10 +12,10 @@
 - **`Project` :** Stackoverflow Renewal
 - **`Project duration` :** 2023.06.09 - 2023.06.27
 - **`Team members` :** 손기배(팀장), 김준영, 오민성, 김다은(부팀장), 김현구, 위정연, 최지은
-- **`Link` :** [배포 사이트](http://043preproject022.s3-website.ap-northeast-2.amazonaws.com/)
+- **`Link` :** [배포 사이트]()
 - **`사용자 요구사항 정의서`:** [사용자요구사항 정의서](https://www.notion.so/codestates/1e62a2a4183d4b9aaffac35a01c7a4d1?v=8336bf5c2e934f43aaa9dde9a691cfc2&pvs=4)
-- **`테이블 명세서`:** [테이블 명세서](https://mercurial-zucchini-045.notion.site/c04f6bc1ffc3429c9f74a446a56c3754)
-- **`API 명세서`:** [API명세서](https://docs.google.com/spreadsheets/d/1Cjdiwola3EAZZC5Q6YiPy29LUJ7nRQ2zkxbgllVLtNM/edit#gid=0)
+- **`테이블 명세서`:** [테이블 명세서]()
+- **`API 명세서`:** [API명세서]()
 
 <br/>
 
