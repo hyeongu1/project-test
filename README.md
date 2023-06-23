@@ -92,7 +92,7 @@ https://www.figma.com/file/ZzVeXd7hL301psnaCpMRSx/%5BMZ%EA%B0%9C%EB%B0%9C%EC%9E%
 - `fe-페이지-컴포넌트` : 프론트 이슈명
 - `be-기능-세부기능` : 백 이슈명 - ex) be-Question-Post
 
-- 
+
 ### 🌲 Branch
 - `main` : 서비스 운영 브랜치
 - `dev` : 메인 브랜치 배포전 릴리즈 브랜치
