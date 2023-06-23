@@ -43,49 +43,19 @@
 <br/>
 
 ### <span style=""> ⚙️ **Tools** </span>
-|                            Github                            |                           Discord                            |                            Notion                            |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img alt="github logo" src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65"> | <img alt="Discord logo" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/62595384e89d1d54d704ece7_3437c10597c1526c3dbd98c737c2bcae.svg" height="65" width="65"> | <img alt="Notion logo" src="https://www.notion.so/cdn-cgi/image/format=auto,width=640,quality=100/front-static/shared/icons/notion-app-icon-3d.png" height="65" width="65"> |
-
+![skillstack](https://github.com/hyeongu1/codestates-todo/assets/124682878/a56ab088-d499-4f18-89ba-a84bb6b4ee2e)
 <br/>
 
-### <span style=""> 🖥 **Front-end** </span>
-|                             Html                             |                             CSS                              |                          JavaScript                          |                            Typescript                             |                    React                     |                            Styled-<br>Components                             |                           axios                           |                                                       |                                                  |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img alt="Html" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/440px-HTML5_logo_and_wordmark.svg.png" width="60" height="60" /> | <div style="display: flex; align-items: flex-start;"><img src="https://user-images.githubusercontent.com/111227745/210204643-4c3d065c-59ec-481d-ac13-cea795730835.png" alt="CSS" width="45" height="60" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="80" height="80" /></div> | | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://styled-components.com/logo.png" alt="styled-components icon" width="100" height="100" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://axios-http.com/assets/logo.svg" width="65" height="65"/></div> |
 
-<br/>
 
-### <span style="">🔒  **Back-end** 
-
-### </span>
-
-|                             Java                             |                             AWS                              |                            mySQL                             |                             JWT                              |                            Spring                            |                        Spring<br>Boot                        |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /></div> | <img alt="spring-boot logo" src="https://play-lh.googleusercontent.com/3C-hB-KWoyWzZjUnRsXUPu-bqB3HUHARMLjUe9OmPoHa6dQdtJNW30VrvwQ1m7Pln3A" width="65" height="65" > | <img alt="spring logo" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="50" width="50" > | <img alt="spring-boot logo" src="https://t1.daumcdn.net/cfile/tistory/27034D4F58E660F616" width="65" height="65" > |
-
-<br/>
-
-<br/>
-
-## 🌟 Pages & Features
-
-|                                                              |                                                              |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-|        **Main page, search and filter results**                           |                 **Login / Signup page**                 |
-| <img width="100%" src="https://user-images.githubusercontent.com/104547038/222377949-97f367bb-cc29-4315-b559-871e75a1f828.gif"/> | <img width="100%" src="https://user-images.githubusercontent.com/104547038/222377978-7a4b1444-8c5c-4f66-81eb-d613b3e4dda4.gif"/> |
-|                    **Ask question page**                     |                     **Delete question**                     |
-| <img width="100%" src="https://user-images.githubusercontent.com/104547038/222381715-b6bd5bb2-e57a-4436-b62d-c7c3a17eac46.gif"/> | <img width="100%" src="https://user-images.githubusercontent.com/104547038/222381726-d322a447-e171-409b-a8f8-d54b20a35b7c.gif"/> |
-|                    **Edit question and answer**                     |                 **Vote & Delete answer**                  |
-| <img width="100%" src="https://user-images.githubusercontent.com/104547038/222378036-3c552bd3-2b15-4b5c-844b-92b172a1aebe.gif"/> | <img width="100%" src="https://user-images.githubusercontent.com/104547038/222381701-bcfd02f0-7d6b-40fd-b1bb-dd504410f6dd.gif"/> |
 
 <br/>
 
 ## 👩🏻‍💻 Wireframe
-https://www.figma.com/file/nlcXKeysr6qeK9mM4REqEy/%EC%8A%A4%EB%AC%BC%EC%9D%BC%EA%B3%B1-%EC%84%9C%EB%A5%B8%ED%95%98%EB%82%98-%ED%94%84%EB%A6%AC%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?t=yOedVWKdlq77tL3N-0
+https://www.figma.com/file/ZzVeXd7hL301psnaCpMRSx/%5BMZ%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%5D-UXUI?type=design&node-id=0-1&t=pVKkTLeNd6Dx7c27-0
 
-<img width="100%" src="https://user-images.githubusercontent.com/117073214/234750025-f133119e-e8f5-4d0f-a291-13081ad3de88.png"/>
-<img width="60%" height="60%" src="https://user-images.githubusercontent.com/117073214/234744231-4144a929-5a9e-4b6c-be59-6d0b1356b854.png"/>
+<img width="100%" src="https://github.com/hyeongu1/project-test/assets/124682878/42de4163-3c39-4af8-af2a-69e3a3671682"/>
+<img width="60%" height="60%" src="https://github.com/hyeongu1/project-test/assets/124682878/2edf8a6f-27fa-4bf5-bf0c-e6c642c5394a"/>
 
 
 
