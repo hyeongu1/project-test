@@ -64,14 +64,10 @@ https://www.figma.com/file/ZzVeXd7hL301psnaCpMRSx/%5BMZ%EA%B0%9C%EB%B0%9C%EC%9E%
 
 <br/>
 
-## 🔖 ERD(Entity Relationship Diagram)
+## 🔖 DB Diagram
 
-![image](https://user-images.githubusercontent.com/117034592/234622497-115f017f-0b90-4349-a82c-cebc03a38dcc.png)
+<img width="520" alt="스크린샷 2023-06-23 오후 2 58 46" src="https://github.com/hyeongu1/codestates-todo/assets/124682878/6b09b848-b9d5-4b5b-8d84-5b6ee74cb772">
 
-##### 💡Postman API  
-https://documenter.getpostman.com/view/25533854/2s93eR4FWH
-
-![image](https://user-images.githubusercontent.com/117034592/234783884-4537be83-58ba-4221-84d5-04ac570314e1.png)
 
 <br/>
 
