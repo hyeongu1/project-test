@@ -42,6 +42,12 @@
 
 <br/>
 
+### 메인페이지
+
+![image](https://github.com/hyeongu1/project-test/assets/124682878/449c81b8-2cc2-4a29-904a-d59537366d55)
+
+<br/>
+
 ### <span style=""> ⚙️ **Tools** </span>
 ![skillstack](https://github.com/hyeongu1/codestates-todo/assets/124682878/a56ab088-d499-4f18-89ba-a84bb6b4ee2e)
 <br/>
@@ -99,5 +105,5 @@ https://www.figma.com/file/ZzVeXd7hL301psnaCpMRSx/%5BMZ%EA%B0%9C%EB%B0%9C%EC%9E%
 |  [chore]    | 빌드 업무 수정, 패키지 매니저 수정                         |
 
 
-![image](https://github.com/hyeongu1/project-test/assets/124682878/449c81b8-2cc2-4a29-904a-d59537366d55)
+
 
