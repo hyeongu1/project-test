@@ -29,13 +29,13 @@
 
 |  Name  | Github ID                                        |
 | :----: | :----------------------------------------------- |
-| 손기배 | [@UseonJ](https://github.com/UseonJ)   |
-| 김준영 | [@raccoon0814](https://github.com/raccoon0814) |
-| 오민성 | [@hihijin](https://github.com/hihijin)         |
-| 김다은 | [@Seohabin6078](https://github.com/Seohabin6078) |
-| 김현구 | [@kkihoon2](https://github.com/kkihoon2)   |
-| 위정연 | [@ingeon2](https://github.com/ingeon2)         |
-| 최지은 | [@ingeon2](https://github.com/ingeon2)         |
+| 손기배 | [@7lpear](https://github.com/7lpear)   |
+| 김준영 | [@Junyoungs7](https://github.com/Junyoungs7) |
+| 오민성 | [@gutack54321](https://github.com/gutack54321)         |
+| 김다은 | [@ddaeunbb](https://github.com/ddaeunbb) |
+| 김현구 | [@hyeongu1](https://github.com/hyeongu1)   |
+| 위정연 | [@yeon0226](https://github.com/yeon0226)         |
+| 최지은 | [@jieun419](https://github.com/jieun419)         |
 
 
 
@@ -97,3 +97,7 @@ https://www.figma.com/file/ZzVeXd7hL301psnaCpMRSx/%5BMZ%EA%B0%9C%EB%B0%9C%EC%9E%
 |  [remove]  | 사용하지 않는 파일 또는 폴더 삭제                          |
 |  [rename]  | 파일 또는 폴더명 수정                                 |
 |  [chore]    | 빌드 업무 수정, 패키지 매니저 수정                         |
+
+
+![image](https://github.com/hyeongu1/project-test/assets/124682878/449c81b8-2cc2-4a29-904a-d59537366d55)
+
