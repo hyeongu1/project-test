@@ -29,12 +29,14 @@
 
 |  Name  | Github ID                                        |
 | :----: | :----------------------------------------------- |
-| 정우선 | [@UseonJ](https://github.com/UseonJ)   |
-| 윤정훈 | [@raccoon0814](https://github.com/raccoon0814) |
-| 박희진 | [@hihijin](https://github.com/hihijin)         |
-| 서하빈 | [@Seohabin6078](https://github.com/Seohabin6078) |
-| 박기훈 | [@kkihoon2](https://github.com/kkihoon2)   |
-| 이인건 | [@ingeon2](https://github.com/ingeon2)         |
+| 손기배 | [@UseonJ](https://github.com/UseonJ)   |
+| 김준영 | [@raccoon0814](https://github.com/raccoon0814) |
+| 오민성 | [@hihijin](https://github.com/hihijin)         |
+| 김다은 | [@Seohabin6078](https://github.com/Seohabin6078) |
+| 김현구 | [@kkihoon2](https://github.com/kkihoon2)   |
+| 위정연 | [@ingeon2](https://github.com/ingeon2)         |
+| 최지은 | [@ingeon2](https://github.com/ingeon2)         |
+
 
 
 
