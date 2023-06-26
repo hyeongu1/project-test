@@ -27,6 +27,10 @@
 |<p align="left">**Pages**<br/>-  Signup page<br/>- Login page <br/>**Components**<br/>-  Buttons <br/>- Header <br/>**Features**<br/>-  Email signup<br/>-  Email login<br/>- Logout <br/> - Manage access token  <br/></p> | <p align="left">**Pages**<br/>-  Main page<br/>- <br/>-  page<br/>-  <br/>**Components**<br/>-  Editor <br/>- Footer <br/>**Features**<br/>-  Question CRUD<br/>- ScrollToTop <br/></p> | <p align="left">**Pages**<br/>-  Question detail page<br/>- Edit Answer page<br/>- Error page<br/>**Components**<br/>-  Side navigation <br/>- Editor, Viewer <br/>- Questions list, Question layout <br/>- Editor, Viewer <br/>**Features**<br/>-  Single Question R <br/>- Answer CRUD + choose <br/>- Comment CRUD  <br/></p> | <p align="left"><br/>- Question CRUD <br/>- AWS deployment <br/>- Exception handling <br/>- Integration test | <p align="left">- CRUD Member<br/>- Login<br/>- Spring Security<br/>(Authentication, Authorization, JWT)<br/>- Member Controller Test<br/>- AWS deployment<br/> | <p align="left">-Answer CRUD<br/>-Comment CRUD<br/>- Voting <br/>- AWS deployment <br/>- Mockito Test <br/>|<p align="left">-Answer CRUD<br/>-Comment CRUD<br/>- Voting <br/>- AWS deployment <br/>- Mockito Test <br/>
 
 
+</br>
+
+
+
 |  Name  | Github ID                                        |
 | :----: | :----------------------------------------------- |
 | 손기배 | [@7lpear](https://github.com/7lpear)   |
